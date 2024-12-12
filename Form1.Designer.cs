@@ -1,4 +1,4 @@
-﻿namespace DijkstraTest2
+﻿namespace Dijkstra
 {
     partial class Form1
     {
